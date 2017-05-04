@@ -1,2 +1,3 @@
-# stranger_count
-hackerrank
+# strange_counter
+hackerrank solution of strange counter
+
